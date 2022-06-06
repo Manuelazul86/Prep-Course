@@ -60,7 +60,7 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (x ==== y)  {
+  if (x === y)  {
     return true;
   } else {
   return false;
@@ -181,7 +181,7 @@ function esPositivo(numero) {
     return "Es negativo";
   }
 }
-}
+
 
 
 function agregarSimboloExclamacion(str) {
@@ -238,7 +238,7 @@ function deEuroAdolar(euro){
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
  var euro = 1.20;
- return numero * euro = ;    
+ return numero * euro;    
 }
 
 
